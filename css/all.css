@@ -107,10 +107,7 @@
 .brand-images-row2{
     margin-top: 40px;
     display: flex;
-    justify-content: space-around;
-}
-.brand-images-row2 .image2{
-    margin-right: 24px;
+    justify-content: space-between;
 }
 .other-works{
     text-align: center;
@@ -127,16 +124,10 @@
 }
 .poster-images-row3,.poster-images-row2{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .poster-images p{
     margin-top: 16px;
-}
-.poster-images-row3 li:nth-child(2){
-    margin: 0 24px;
-}
-.poster-images-row2 li:nth-child(1){
-    margin-right: 24px;
 }
 .footer{
     padding-bottom: 80px;
